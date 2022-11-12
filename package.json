@@ -1,0 +1,26 @@
+{
+  "name": "random-str-my-mensaje",
+  "version": "1.0.0",
+  "description": "random str mymensaje",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harbeilinibarguen/random-str-my-mensaje.git"
+  },
+  "keywords": [],
+  "author": "Harbeilin Ibarguen <harbeilin@agenciaglobalweb.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Harbeilinibarguen/random-str-my-mensaje/issues"
+  },
+  "homepage": "https://github.com/Harbeilinibarguen/random-str-my-mensaje#readme",
+  "bin": {
+     "random-str-my-mensaje": "./bin/global.js"   
+  },
+  "preferGlobal": true
+  
+}
+
